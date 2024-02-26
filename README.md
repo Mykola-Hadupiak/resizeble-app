@@ -5,6 +5,8 @@ https://github.com/Mykola-Hadupiak/resizeble-app-server
 
 The application is made in react with SASS and I also used the re-resizable library here to make the resizing logic.
 
-You can also add some text that will be saved in the database and after that you can change it.
+I used simple styles
+
+You can also add some text that will be saved in the database and after that you can change it. (in window 2)
 
 To start this project use npm start.
