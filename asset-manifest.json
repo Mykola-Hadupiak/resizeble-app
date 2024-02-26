@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/resizeble-app/static/css/main.02da54fb.css",
+    "main.js": "/resizeble-app/static/js/main.c405c474.js",
+    "index.html": "/resizeble-app/index.html",
+    "main.02da54fb.css.map": "/resizeble-app/static/css/main.02da54fb.css.map",
+    "main.c405c474.js.map": "/resizeble-app/static/js/main.c405c474.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02da54fb.css",
+    "static/js/main.c405c474.js"
+  ]
+}
